@@ -7,6 +7,7 @@ import { CardActionArea, CardActions} from '@mui/material';
 import '@mui/material/styles';
 import ButtonComponent from '../../Components/Button/ButtonComponent';
 
+
 import './index.scss'
 
 interface CardProps {

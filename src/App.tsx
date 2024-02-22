@@ -5,6 +5,8 @@ import Projects from './Pages/Projects/Projects'
 import Skills from './Pages/Skills/Skills'
 import './global.scss'
 
+
+
 function App() {
 
 
