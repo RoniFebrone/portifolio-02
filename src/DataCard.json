@@ -1,6 +1,6 @@
 [
     {
-        "img":"../public/imgProjects/React.svg",
+        "img":"../imgProjects/React.svg",
         "title": "PORTFÓLIO",
         "description": "Meu portfólio, que estão vendo agora!! Esse foi uma migração do meu primeiro projeto em react, que hoje está com a tipagem do TypeScript. No primeiro momento, foi bem difícil fazer, por se tratar da primeira experiência com react, e para migra-lo para o TS, foi bem mais simples, mas notável que precisa de otimização",
         "repo": "https://github.com/RoniFebrone/Portifolio-tsx",
@@ -8,14 +8,14 @@
         "id": "1"
     },
     {
-        "img":"../public/imgProjects/React.svg",
+        "img":"../imgProjects/React.svg",
         "title": "PORTFÓLIO",
         "description": "Meu portfólio, que estão vendo agora!! Esse foi uma migração do meu primeiro projeto em react, que hoje está com a tipagem do TypeScript. No primeiro momento, foi bem difícil fazer, por se tratar da primeira experiência com react, e para migra-lo para o TS, foi bem mais simples, mas notável que precisa de otimização",
         "repo": "https://github.com/RoniFebrone/Portifolio-tsx",
         "site": "https://portifolio-tsx-tau.vercel.app",
         "id": "2"
     },  {
-        "img":"../public/imgProjects/React.svg",
+        "img":"../imgProjects/React.svg",
         "title": "PORTFÓLIO",
         "description": "Meu portfólio, que estão vendo agora!! Esse foi uma migração do meu primeiro projeto em react, que hoje está com a tipagem do TypeScript. No primeiro momento, foi bem difícil fazer, por se tratar da primeira experiência com react, e para migra-lo para o TS, foi bem mais simples, mas notável que precisa de otimização",
         "repo": "https://github.com/RoniFebrone/Portifolio-tsx",
