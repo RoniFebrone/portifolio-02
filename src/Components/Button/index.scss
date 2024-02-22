@@ -1,0 +1,44 @@
+.Button {
+
+    &__btn {
+        margin-top: 10px;
+
+        height: 40px;
+        width: 150px;
+
+        font-size: 15px;
+        font-weight: 400;
+
+        background: linear-gradient(270deg, #13ADC7 0%, #6978D1 66.67%, #945DD6 100%);
+        color: white;
+
+        border: 0;
+        border-radius: 83px;
+
+        cursor: pointer;
+
+    }
+}
+@media screen and (min-width: 768px) {
+    .Button {
+
+        &__btn {
+            margin-top: 10px;
+
+            height: 60px;
+            width: 250px;
+
+            font-size: 20px;
+            font-weight: 600;
+
+            background: linear-gradient(270deg, #13ADC7 0%, #6978D1 66.67%, #945DD6 100%);
+            color: white;
+
+            border: 0;
+            border-radius: 83px;
+
+            cursor: pointer;
+
+        }
+    }
+}

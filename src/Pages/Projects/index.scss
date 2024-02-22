@@ -1,0 +1,21 @@
+.Projects {
+    margin: 5% 5%;
+
+    h1 {
+        font-size: 35px;
+        margin-bottom: 5%;
+    }
+
+}
+@media screen and (min-width: 768px) {
+    .Projects {
+        margin: 5% 15%;
+
+        h1 {
+            font-size: 50px;
+            margin-bottom: 5%;
+        }
+
+    }
+
+}

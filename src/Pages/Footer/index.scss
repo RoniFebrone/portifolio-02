@@ -1,0 +1,76 @@
+// a {
+//     color: white !important;
+//     cursor: pointer;
+//     text-decoration: none;
+// }
+
+// .Footer{
+//     display: flex;
+//     justify-content: center;
+
+//     width: 80%;
+
+//     &__Contato{
+//         display: flex;
+//     }
+// }
+
+
+/* Estilos básicos para dispositivos móveis */
+.footer {
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    ul {
+        display: flex;
+        text-decoration: none;
+        list-style: none;
+        justify-content: center;
+        margin: 1rem 2rem;
+    }
+
+    li {
+        margin: 0.5rem;
+    }
+
+    a {
+        color: aliceblue !important;
+    }
+
+    p {
+        margin: 1rem 1.5rem;
+        font-size: 1.125rem;
+        text-align: center;
+    }
+}
+
+
+/* Estilos adicionais para telas médias (exemplo: tablets em orientação retrato) */
+@media screen and (min-width: 768px) {
+    .footer {
+        flex-direction: row;
+        margin: 7% 5% 5% 5%;
+
+        ul {
+            margin-left: 30%;
+        }
+
+        li {
+            margin-left: 1rem;
+        }
+
+        font-family: Poppins;
+        font-size: 42px;
+        font-weight: 600;
+        line-height: 30px;
+
+    }
+    .footer p{
+        text-align: left;
+    }
+    
+}
