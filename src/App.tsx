@@ -6,7 +6,6 @@ import Skills from './Pages/Skills/Skills'
 import './global.scss'
 
 
-
 function App() {
 
 
