@@ -13,7 +13,7 @@ import Ts from '../../Images/Skill/Ts.svg'
 function Skills() {
     return (
         <div className="flexSkill">
-            <section className="skills" >
+            <section className="skills" id='Skills' >
                 <h1>Habilidades</h1>
                 <p>Conheça um pouco das minhas principais habilidades e conhecimentos.</p>
                 <div>

@@ -9,8 +9,8 @@ function Navbar() {
         <div className="navbar">
             <ul className="list1">
                 <li><Link to="Presentation" smooth={true} duration={500} offset={-80}>Apresentação</Link></li>
-                <li><Link to="Skills" smooth={true} duration={500} offset={-80}>Habilidades</Link></li>
                 <li><Link to="Projects" smooth={true} duration={500} offset={-80}>Projetos</Link></li>
+                <li><Link to="Skills" smooth={true} duration={500} offset={-80}>Habilidades</Link></li>
             </ul>
             <ul className="list2">
                 <li> <a href='https://www.linkedin.com/notifications/?filter=all' target='Blank'> <FaLinkedin size={24}/> </a></li>

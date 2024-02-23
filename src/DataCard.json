@@ -1,25 +1,34 @@
 [
     {
-        "img":"/imgProjects/React.svg",
+        "img": "/imgProjects/React.svg",
         "title": "PORTFÓLIO",
-        "description": "Meu portfólio, que estão vendo agora!! Esse foi uma migração do meu primeiro projeto em react, que hoje está com a tipagem do TypeScript. No primeiro momento, foi bem difícil fazer, por se tratar da primeira experiência com react, e para migra-lo para o TS, foi bem mais simples, mas notável que precisa de otimização",
+        "description": "Meu portfólio, que estão vendo agora!! Esse foi uma migração do meu primeiro projeto em react, que hoje está com o TypeScript implementado. No primeiro momento, foi bem difícil fazer, por se tratar da primeira experiência com react, e para migra-lo para o TS, foi bem mais simples, mas notável que precisa de otimização",
         "repo": "https://github.com/RoniFebrone/Portifolio-tsx",
         "site": "https://portifolio-tsx-tau.vercel.app",
         "id": "1"
     },
     {
-        "img":"/imgProjects/React.svg",
-        "title": "PORTFÓLIO",
-        "description": "Meu portfólio, que estão vendo agora!! Esse foi uma migração do meu primeiro projeto em react, que hoje está com a tipagem do TypeScript. No primeiro momento, foi bem difícil fazer, por se tratar da primeira experiência com react, e para migra-lo para o TS, foi bem mais simples, mas notável que precisa de otimização",
-        "repo": "https://github.com/RoniFebrone/Portifolio-tsx",
-        "site": "https://portifolio-tsx-tau.vercel.app",
+        "img": "/imgProjects/ToDoList.svg",
+        "title": "Lista de tarefas",
+        "description": "Projeto Front-end, que era apenas pra ser o front mesmo do to-do List, mas utilizei, um banco de dados adaptado em nodeJS para simular um banco de dados com o JSON Server para que ficasse funcional, o que me ajudou entender muito mais sobre hospedagens, AWS, até o próprio nodeJS. ",
+        "repo": "https://github.com/RoniFebrone/to-do-list",
+        "site": "https://to-do-list-taupe-one.vercel.app",
         "id": "2"
-    },  {
-        "img":"/imgProjects/React.svg",
-        "title": "PORTFÓLIO",
-        "description": "Meu portfólio, que estão vendo agora!! Esse foi uma migração do meu primeiro projeto em react, que hoje está com a tipagem do TypeScript. No primeiro momento, foi bem difícil fazer, por se tratar da primeira experiência com react, e para migra-lo para o TS, foi bem mais simples, mas notável que precisa de otimização",
-        "repo": "https://github.com/RoniFebrone/Portifolio-tsx",
-        "site": "https://portifolio-tsx-tau.vercel.app",
+    },
+    {
+        "img": "/imgProjects/Byecar.svg",
+        "title": "Lançamento produto - Byecar",
+        "description": "Este foi um desafio Front-End que fiz, em que além do treino em lógica de programação, html, css e JS, também foi exelente, pois treinamos tambem o uso do figma, foram feitos benchmarks, entre outras demandas que passei para a conclusao do projeto.",
+        "repo": "https://github.com/RoniFebrone/Figma-Lp-comp.git",
+        "site": "https://lp-byecar.netlify.app",
         "id": "3"
+    },
+    {
+        "img": "/imgProjects/Deliveryeasy.svg",
+        "title": "APLICATIVO DE DELIVERY (UI/UX Figma)",
+        "description": "Neste projeto, fui desafiado a criar um aplicativo, com poucas informações, onde precisei criar um benchmark, traçar um plano, e criar um app, em que é possivel realizar uma compra através do protótipo, bem rico em detalhes.",
+        "repo": "https://github.com/RoniFebrone/UI-e-UX-Training.git",
+        "site": "https://www.figma.com/proto/zuxZprLMP5mM5oxy0b2Ty6/DeliveryEasy?type=design&node-id=142-9639&t=aRtjZ39ncrd9K8aU-1&scaling=min-zoom&page-id=142%3A4347&starting-point-node-id=142%3A12557&mode=design",
+        "id": "4"
     }
 ]

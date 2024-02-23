@@ -64,7 +64,7 @@ export default function MultiActionAreaCard({ img, title, description, repo, sit
             </CardActionArea>
             <CardActions >
                 <div className="styleButtonComponent">
-                    <ButtonComponent text='Clique aqui' link={repo}/>
+                    <ButtonComponent text='Ver no GitHub!' link={repo}/>
                 </div>
             </CardActions>
         </Card>
