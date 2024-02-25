@@ -16,12 +16,20 @@
         "id": "2"
     },
     {
+        "img": "/imgProjects/ConsultaEnPr.svg",
+        "title": "Consulta Endereço e clima",
+        "description": "Projeto Front-end, focado em aprimorar minhas habilidades em consumir API, e ultilziar frameworks e bibliotecas, para esse projeto, utilizei React coom TypeScript como framework e o Bootstrap como biblioteca, para me aproximar mais de como posso pegar algumas situações, dei uma atenção em questão de responsividade, e muitas validaçoes para o consumo da API",
+        "repo": "https://github.com/RoniFebrone/Consulta-Endereco-Prev.Tempo",
+        "site": "https://consulta-end-temp.vercel.app",
+        "id": "3"
+    },
+    {
         "img": "/imgProjects/Byecar.svg",
         "title": "Lançamento produto - Byecar",
         "description": "Este foi um desafio Front-End que fiz, em que além do treino em lógica de programação, html, css e JS, também foi exelente, pois treinamos tambem o uso do figma, foram feitos benchmarks, entre outras demandas que passei para a conclusao do projeto.",
         "repo": "https://github.com/RoniFebrone/Figma-Lp-comp.git",
         "site": "https://lp-byecar.netlify.app",
-        "id": "3"
+        "id": "4"
     },
     {
         "img": "/imgProjects/Deliveryeasy.svg",
@@ -29,6 +37,6 @@
         "description": "Neste projeto, fui desafiado a criar um aplicativo, com poucas informações, onde precisei criar um benchmark, traçar um plano, e criar um app, em que é possivel realizar uma compra através do protótipo, bem rico em detalhes.",
         "repo": "https://github.com/RoniFebrone/UI-e-UX-Training.git",
         "site": "https://www.figma.com/proto/zuxZprLMP5mM5oxy0b2Ty6/DeliveryEasy?type=design&node-id=142-9639&t=aRtjZ39ncrd9K8aU-1&scaling=min-zoom&page-id=142%3A4347&starting-point-node-id=142%3A12557&mode=design",
-        "id": "4"
+        "id": "5"
     }
 ]
