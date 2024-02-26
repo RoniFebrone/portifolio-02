@@ -39,6 +39,8 @@ Gostei muito de fazer este, foi o que mais me identifiquei, em questões de esti
 # clone esse repositório
 $ git clone https://github.com/RoniFebrone/<repo_name>.git
 
+# no terminal, instale.
+$ npm install
 
 # abra outro terminal e rode o projeto
 $ npm run dev
