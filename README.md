@@ -16,7 +16,8 @@
 
 <h4>Descrição 📄</h4>
 
-Bem vindos ao meu portifólio, este que é o último projeto portifólio que fiz, explorando algumas bibliotecas, como Swiper e Material UI, usando de tecnologia, o TypeScript, React, Sass, JavaScript pelo vite, 
+Bem vindos ao meu portifólio, este que é o último projeto portifólio que fiz, explorando algumas bibliotecas, como Swiper e Material UI, usando de tecnologia, o TypeScript, React, Sass, JavaScript pelo vite.
+Gostei muito de fazer este, foi o que mais me identifiquei, em questões de estilização, e da funcionalidades implementadas, fiquei satisfeito.
 
 <hr>
 
