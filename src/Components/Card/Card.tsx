@@ -3,7 +3,7 @@ import Card from '@mui/material/Card';
 import CardContent from '@mui/material/CardContent';
 import CardMedia from '@mui/material/CardMedia';
 import Typography from '@mui/material/Typography';
-import { CardActionArea, CardActions} from '@mui/material';
+import { CardActionArea, CardActions } from '@mui/material';
 import '@mui/material/styles';
 import ButtonComponent from '../../Components/Button/ButtonComponent';
 
@@ -22,7 +22,7 @@ export default function MultiActionAreaCard({ img, title, description, repo, sit
     return (
         <Card sx={{
             width: 450,
-            height: 500,
+            height: 520,
             MaxWidth: 450,
             MaxHeight: 550,
 
@@ -44,7 +44,18 @@ export default function MultiActionAreaCard({ img, title, description, repo, sit
                     />
                 </a>
                 <CardContent>
-                    <Typography gutterBottom variant="h5" component="div" sx={{ textAlign: 'center', fontFamily: 'Poppins', fontWeight: 600 }}>
+                    <Typography gutterBottom variant="h5"
+                        component="div"
+                        sx={{
+                            textAlign: 'center',
+                            fontFamily: 'Poppins',
+                            fontWeight: 600, overflowX: 'hidden',
+                            overflowY: 'auto',
+                            maxHeight: 60,
+                            maxWidth: 450,
+                            wordWrap: 'break-word',
+                            scrollbarWidth: 'none',
+                        }}>
                         {title}
                     </Typography>
                     <Typography variant="body2" style={{
@@ -56,7 +67,7 @@ export default function MultiActionAreaCard({ img, title, description, repo, sit
                         maxWidth: 450,
                         wordWrap: 'break-word',
                         scrollbarWidth: 'none',
-                        
+
                     }}>
                         {description}
                     </Typography>
@@ -64,7 +75,7 @@ export default function MultiActionAreaCard({ img, title, description, repo, sit
             </CardActionArea>
             <CardActions >
                 <div className="styleButtonComponent">
-                    <ButtonComponent text='Ver no GitHub!' link={repo}/>
+                    <ButtonComponent text='Ver no GitHub!' link={repo} />
                 </div>
             </CardActions>
         </Card>
