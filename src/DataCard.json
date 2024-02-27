@@ -11,8 +11,8 @@
         "img": "/imgProjects/ToDoList.svg",
         "title": "Lista de tarefas",
         "description": "Projeto Front-end, que era apenas pra ser o front mesmo do to-do List, mas utilizei, um banco de dados adaptado em nodeJS para simular um banco de dados com o JSON Server para que ficasse funcional, o que me ajudou entender muito mais sobre hospedagens, AWS, até o próprio nodeJS. ",
-        "repo": "https://github.com/RoniFebrone/to-do-list",
-        "site": "https://to-do-list-taupe-one.vercel.app",
+        "repo": "https://github.com/RoniFebrone/todo-list",
+        "site": "https://todo-list-five-henna.vercel.app",
         "id": "2"
     },
     {
